@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="musicmatch-js">
+    <output-path>$PROJECT_DIR$/musicmatch/build/libs</output-path>
+    <root id="archive" name="musicmatch-js.jar">
+      <element id="module-output" name="MusicMatch.musicmatch.jsMain" />
+    </root>
+  </artifact>
+</component>
